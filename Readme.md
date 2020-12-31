@@ -6,9 +6,8 @@ provide you with the tools to become someone new.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
+* [To-do list](#to-do-list)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -24,7 +23,7 @@ favorite hobby, and your new personality. All the user has to do is embody them!
 No setup necessary
 
 
-To-do list:
+## To-do list:
 * Some improvements for the next version include the ability to access the program
 from your browser.
 * Another improvement in progress is modern styling and increase easy-of-use for users. 
