@@ -29,7 +29,7 @@ from your browser.
 * Another improvement in progress is modern styling and increase easy-of-use for users. 
 
 ## Status
-Project is: In progress. First version will be available on January 1, 2021
+Project is: Complete
 
 
 ## Contact
